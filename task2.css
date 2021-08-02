@@ -1,0 +1,37 @@
+.container{
+    padding-left: 52rem;
+}
+img{
+    height: 500px;
+    /* width: 500px; */
+}
+.head-one{
+    font-size: 40px;
+
+}
+.text{
+    text-align: center;
+    margin-top: 15px;
+}
+.text-one{
+    font-size: 40px;
+    color: gray;
+}
+
+.carousal-one{
+    font-size: 70px;
+    padding-top: 30px;
+}
+.sp{
+    color: grey;
+}
+.img-circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-image: url(../assests/images/nature2.jfif);
+    align-items: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
